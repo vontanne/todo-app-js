@@ -1,2 +1,2 @@
 # todo-app-js
-simple To-Do List app using pure JavaScript
+Simple To-Do App with pure JavaScript
